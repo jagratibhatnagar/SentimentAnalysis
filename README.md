@@ -6,7 +6,7 @@ __Problem Statement__: The objective of this project is to detect hate speech in
 
 Formally, given a training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist, your objective is to predict the labels on the test dataset.
 
-__Dataset *train.csv and test.csv* has been downloaded from:__ *__https://www.kaggle.com/c/twitter-sentiment-analysis2/data__*
+Dataset __*train.csv__ and __test.csv*__ has been downloaded from: *__https://www.kaggle.com/c/twitter-sentiment-analysis2/data__*
 
 __Steps Involved:__
 1.	Importing libraries needed and Loading Data
